@@ -1,0 +1,23 @@
+{
+  "name": "launch-darkly-experiment",
+  "version": "1.0.0",
+  "description": "Launch Darkly Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasnilorout/launch-darkly-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasnilorout/launch-darkly-experiment/issues"
+  },
+  "homepage": "https://github.com/manasnilorout/launch-darkly-experiment#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "launchdarkly-node-server-sdk": "^7.0.1"
+  }
+}
